@@ -1,7 +1,7 @@
 
 ---
 
-## 🧾 Source Code Repository
+## 🧾 SMART MACHINE DEFECT PROTECTION SYSTEM
 📦 **GitHub Repository:**  
 👉 [https://github.com/keertidamani/tarp_project](https://github.com/keertidamani/tarp_project)
 
